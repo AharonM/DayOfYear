@@ -1,0 +1,123 @@
+Part 1 of the assignment:
+
+Numeric input: 95
+Date: April 5
+
+Numeric input: 34
+Date: February 3
+
+Numeric input: 178
+Date: June 27
+
+Numeric input: 207
+Date: July 26
+
+Numeric input: 364
+Date: December 30
+
+
+Part 2 of the assignment:
+
+Entered Month and Day: January 1
+
+Numeric day of the year: 1
+
+Prefix++:
+part2: 2
+part2i: 2
+
+Postfix++:
+part2: 2
+part2i: 3
+
+Prefix--:
+part2: 365
+part2d: 365
+
+Postfix--:
+part2: 365
+part2d: 364
+
+
+Entered Month and Day: June 10
+
+Numeric day of the year: 161
+
+Prefix++:
+part2: 162
+part2i: 162
+
+Postfix++:
+part2: 162
+part2i: 163
+
+Prefix--:
+part2: 160
+part2d: 160
+
+Postfix--:
+part2: 160
+part2d: 159
+
+
+Entered Month and Day: April 8
+
+Numeric day of the year: 98
+
+Prefix++:
+part2: 99
+part2i: 99
+
+Postfix++:
+part2: 99
+part2i: 100
+
+Prefix--:
+part2: 97
+part2d: 97
+
+Postfix--:
+part2: 97
+part2d: 96
+
+
+Entered Month and Day: November 11
+
+Numeric day of the year: 315
+
+Prefix++:
+part2: 316
+part2i: 316
+
+Postfix++:
+part2: 316
+part2i: 317
+
+Prefix--:
+part2: 314
+part2d: 314
+
+Postfix--:
+part2: 314
+part2d: 313
+
+
+Entered Month and Day: December 31
+
+Numeric day of the year: 365
+
+Prefix++:
+part2: 1
+part2i: 1
+
+Postfix++:
+part2: 1
+part2i: 2
+
+Prefix--:
+part2: 364
+part2d: 364
+
+Postfix--:
+part2: 364
+part2d: 363
